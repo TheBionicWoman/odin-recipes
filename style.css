@@ -1,0 +1,24 @@
+body {
+    background-color: #F9F3E7;
+}
+
+#website-title,
+#recipe-title {
+    font-weight: 900px;
+    font-size: 40px;
+}
+
+.heading-style {
+    text-decoration: underline;
+    text-align: center;
+    color: #ffc0cb;
+}
+
+.center-image {
+    text-align: center;
+}
+
+.alter-image {
+    height: 200;
+    width: 200px;
+}
