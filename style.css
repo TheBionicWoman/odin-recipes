@@ -8,17 +8,17 @@ body {
     font-size: 40px;
 }
 
+.center-image,
+.para,
+.heading-style {
+    text-align: center;
+}
+
 .heading-style {
     text-decoration: underline;
-    text-align: center;
     color: #ffc0cb;
 }
 
-.center-image {
-    text-align: center;
-}
-
-.alter-image {
-    height: 200;
-    width: 200px;
+#style-list {
+    list-style: none;
 }
