@@ -19,6 +19,13 @@ body {
     color: #ffc0cb;
 }
 
-#style-list {
+ul#style-list {
     list-style: none;
+    display: inline-block;
+    text-align: left;
 }
+
+.container-list {
+    text-align: center;
+}
+
